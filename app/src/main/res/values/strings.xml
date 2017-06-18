@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance Management</string>
+    <string name="pref_previously_started" />
+    <string name="user_name" />
+</resources>
